@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 📝 I regularly write articles on [linktr.ee/ardizanki](https://linktr.ee/ardizanki)
+- 📝 I regularly write articles on [ardizanki](https://linktr.ee/ardizanki)
 
 - 💬 Ask me about **Web Ecosystem**
 
-- 📫 How to reach me **mazardizanki@gmail.com**
+- 📫 How to reach me on **mazardizanki@gmail.com**
 
 - ⚡ Fun fact **React Enthusiast**
 
