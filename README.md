@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **React, Next.js and Tailwindcss**
 
-- 👯 I’m looking to collaborate on **Web Ecosystem**
-
-- 🤝 I’m looking for help with **React and Next.js**
-
 - 📝 I regularly write articles on [ardizanki](https://linktr.ee/ardizanki)
 
 - 💬 Ask me about **Web Ecosystem**
