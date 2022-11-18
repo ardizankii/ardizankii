@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue, Nuxt and Tailwindcss**
 
-- 📝 I regularly write articles on [https://ardizanki.substack.com/](https://ardizanki.substack.com/)
+- 📝 I regularly write articles on [ardizanki](https://ardizanki.substack.com/)
 
 - 📫 How to reach me **mazardizanki@gmail.com**
 
