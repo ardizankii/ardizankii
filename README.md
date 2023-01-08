@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Private**
 
-- 🌱 I’m currently learning **Web Ecosystem**
-
 - 📫 How to reach me **mazardizanki@gmail.com**
 
 - ⚡ Fun fact **Frontend Enthusiast**
