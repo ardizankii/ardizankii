@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Web Ecosystem**
 
-- 📝 I regularly write articles on [ardizanki](https://ardizanki.substack.com/)
-
 - 📫 How to reach me **mazardizanki@gmail.com**
 
 - ⚡ Fun fact **Frontend Enthusiast**
